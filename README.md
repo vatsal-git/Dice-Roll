@@ -1,2 +1,10 @@
-Language : HTML, CSS, JS
-Key Features : Learnt new JS
+# TicTacToe Game
+
+## Overview
+
+- Part of FullStack Development course.
+
+## Stack:
+
+- HTML, CSS, Js
+
